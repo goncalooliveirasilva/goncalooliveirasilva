@@ -17,22 +17,30 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" />
 </p>
 
 <h3 align="center">🛠️ Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,react,nodejs,vscode,linux" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="Flask" src="https://skillicons.dev/icons?i=flask" />
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
   <a href="www.linkedin.com/in/goncalooliveirasilva">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:goncaloliveirasilva@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img title="Gmail" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 <!---
