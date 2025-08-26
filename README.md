@@ -15,8 +15,6 @@
 
 <br>
 
----
-
 <h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
