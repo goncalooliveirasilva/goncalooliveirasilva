@@ -33,7 +33,7 @@
   <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
 </p>
 
----
+<br>
 
 <p align="center">
   📫 <b>Connect with me:</b><br/>
