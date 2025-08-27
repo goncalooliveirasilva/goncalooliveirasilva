@@ -33,15 +33,12 @@
   <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
 </p>
 
+---
 
-<h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/goncalooliveirasilva">
-    <img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:goncaloliveirasilva@gmail.com">
-    <img title="Gmail" src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  📫 <b>Connect with me:</b><br/>
+  <a href="https://www.linkedin.com/in/goncalooliveirasilva">LinkedIn</a> • 
+  <a href="mailto:goncaloliveirasilva@gmail.com">Email</a>
 </p>
 <!---
 goncalooliveirasilva/goncalooliveirasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
