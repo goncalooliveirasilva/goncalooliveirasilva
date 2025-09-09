@@ -38,8 +38,8 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=goncalooliveirasilva&theme=merko&border_radius=5&short_numbers=true&card_width=450&card_height=150" alt="GitHub Streak" height=150px/>
-  <img src="https://github-readme-stats.vercel.app/api?username=goncalooliveirasilva&show_icons=true&count_private=true&theme=merko" height=150px />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalooliveirasilva&theme=merko&radius=16&hide_border=true" height=150px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=goncalooliveirasilva&show_icons=true&count_private=true&theme=merko&hide_border=true" height=150px />
 </div>
 
 <!---
