@@ -22,6 +22,7 @@
   <img title="React" src="https://skillicons.dev/icons?i=react" />
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
   <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
+  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
   <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask" />
   <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
