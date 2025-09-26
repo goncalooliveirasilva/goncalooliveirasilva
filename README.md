@@ -12,6 +12,7 @@
   <img title="Python" src="https://skillicons.dev/icons?i=python" />
   <img title="Java" src="https://skillicons.dev/icons?i=java" />
   <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=typescript" />
   <img title="HTML" src="https://skillicons.dev/icons?i=html" />
   <img title="CSS" src="https://skillicons.dev/icons?i=css" />
 </p>
