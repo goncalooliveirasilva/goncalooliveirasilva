@@ -34,7 +34,7 @@
 <p align="center">
   📫 <b>Connect with me:</b><br/>
   <a href="https://www.linkedin.com/in/goncalooliveirasilva">LinkedIn</a> • 
-  <a href="mailto:goncaloliveirasilva@gmail.com">Email</a>
+  <a href="mailto:goncalo.silva.dev@proton.me">Email</a>
 </p>
 
 <br>
