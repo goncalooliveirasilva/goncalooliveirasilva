@@ -26,7 +26,8 @@
   <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
   <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask" />
-  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 <br>
