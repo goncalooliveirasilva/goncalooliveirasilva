@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img title="Python" src="https://skillicons.dev/icons?i=python" />
   <img title="Java" src="https://skillicons.dev/icons?i=java" />
@@ -17,7 +17,7 @@
   <img title="CSS" src="https://skillicons.dev/icons?i=css" />
 </p>
 
-<h3 align="center">🛠️ Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img title="Git" src="https://skillicons.dev/icons?i=git" />
   <img title="React" src="https://skillicons.dev/icons?i=react" />
