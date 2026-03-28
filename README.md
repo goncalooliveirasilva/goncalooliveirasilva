@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 𝙂𝙤𝙣ç𝙖𝙡𝙤 </h1>
+<h1 align="center">Hi, I'm Gonçalo </h1>
 
 <p align="center">
   🌱 I’m a <b>Software Engineering</b> student at 
