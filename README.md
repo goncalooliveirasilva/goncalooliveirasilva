@@ -19,15 +19,20 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img title="Git" src="https://skillicons.dev/icons?i=git" />
-  <img title="React" src="https://skillicons.dev/icons?i=react" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-  <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
-  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
-  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
-  <img title="Flask" src="https://skillicons.dev/icons?i=flask" />
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
   <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
   <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img title="Apache Cassandra" src="https://skillicons.dev/icons?i=cassandra" />
+  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
+  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
+  <img title="RabbitMQ" src="https://skillicons.dev/icons?i=rabbitmq" />
+  <img title="scikit-learn" src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
 <br>
