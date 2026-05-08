@@ -25,6 +25,8 @@
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
   <img title="React" src="https://skillicons.dev/icons?i=react" />
   <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
+</p>
+<p align="center">
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
   <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
