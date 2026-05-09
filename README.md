@@ -49,6 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalooliveirasilva&theme=merko&radius=16&hide_border=true" height=150px/>
+  <img src="https://github-readme-stats-eta-five-76.vercel.app/api?username=goncalooliveirasilva&show_icons=true&count_private=true&theme=merko&hide_border=true" height=150px/>
 </div>
 
 <!---
