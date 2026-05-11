@@ -33,7 +33,6 @@
   <img title="Apache Cassandra" src="https://skillicons.dev/icons?i=cassandra" />
   <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
   <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
-  <img title="RabbitMQ" src="https://skillicons.dev/icons?i=rabbitmq" />
   <img title="scikit-learn" src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
