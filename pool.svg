@@ -74,7 +74,7 @@
 <rect x="24" y="24" width="812" height="252" fill="url(#water)"/>
 <rect x="24" y="24" width="812" height="252" fill="url(#floor)"/>
 <rect x="80" y="114.5" width="700" height="8" fill="#0b3a57" fill-opacity=".5"/><rect x="72" y="102.5" width="8" height="32" fill="#0b3a57" fill-opacity=".5"/><rect x="780" y="102.5" width="8" height="32" fill="#0b3a57" fill-opacity=".5"/>
-<text x="70" y="67.5" font-family="'Arial Black','Segoe UI',Helvetica,Arial,sans-serif" font-weight="900" font-size="34" fill="#0b3a57" fill-opacity=".5" letter-spacing="3">HI, I'M GONÇALO</text>
+<text x="70" y="67.5" font-family="'Arial Black','Segoe UI',Helvetica,Arial,sans-serif" font-weight="900" font-size="34" fill="#0b3a57" fill-opacity=".5" letter-spacing="3">HI, I'M GONÇALO!</text>
 <text x="70" y="188.5" font-family="'Arial Black','Segoe UI',Helvetica,Arial,sans-serif" font-weight="900" font-size="19" fill="#0b3a57" fill-opacity=".5" letter-spacing="2">SOFTWARE ENGINEERING MASTER&#39;S STUDENT @ DETI-UA</text>
 <text x="70" y="250.5" font-family="'Arial Black','Segoe UI',Helvetica,Arial,sans-serif" font-weight="900" font-size="16" fill="#0b3a57" fill-opacity=".5" letter-spacing="2">CODING · READING · SWIMMING · MUSIC</text>
 <rect x="24" y="24" width="812" height="252" fill="url(#caustics)"/>
