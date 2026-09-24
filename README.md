@@ -1,57 +1,51 @@
-<h1 align="center">Hi, I'm Gonçalo </h1>
-
+<!-- HEADER -->
 <p align="center">
-  🌱 I’m a <b>Software Engineering</b> student at 
-  <a href="https://www.ua.pt/en/deti">DETI-UA</a> <br/>
-  💡 I enjoy coding, 📚 reading books, and 🏊 swimming
+  <img src="./pool.svg" alt="Hi, I'm Gonçalo: a swimmer doing laps while the crowd cheers" width="100%" />
 </p>
 
+<br/>
 
-<h3 align="center">Languages</h3>
+<!-- ABOUT -->
 <p align="center">
-  <img title="Python" src="https://skillicons.dev/icons?i=python" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
-  <img title="HTML" src="https://skillicons.dev/icons?i=html" />
-  <img title="CSS" src="https://skillicons.dev/icons?i=css" />
+  🌱 I’m a <b>Software Engineering</b> Master's student at <a href="https://www.ua.pt/en/deti">DETI-UA</a><br/>
+  💡 I enjoy coding, 📚 reading books, 🏊 swimming and 🎵 listening to music
 </p>
 
-<h3 align="center">Tools</h3>
 <p align="center">
-  <img title="Git" src="https://skillicons.dev/icons?i=git" />
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
-  <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-  <img title="React" src="https://skillicons.dev/icons?i=react" />
-  <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
-</p>
-<p align="center">
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
-  <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
-  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-  <img title="Apache Cassandra" src="https://skillicons.dev/icons?i=cassandra" />
-  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
-  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" />
-  <img title="scikit-learn" src="https://skillicons.dev/icons?i=sklearn" />
+  <a href="https://www.linkedin.com/in/goncalooliveirasilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:goncalo.silva.dev@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br>
+<br/>
+
+<!-- TECH STACK -->
+<h3 align="center">Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,react,threejs,sklearn" alt="FastAPI, Spring Boot, Node.js, Express, React, Three.js, scikit-learn" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra,graphql" alt="PostgreSQL, MongoDB, Redis, Cassandra, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker" alt="Git, Docker" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  📫 <b>Connect with me:</b><br/>
-  <a href="https://www.linkedin.com/in/goncalooliveirasilva">LinkedIn</a> • 
-  <a href="mailto:goncalo.silva.dev@proton.me">Email</a>
+  <img src="https://github-readme-activity-graph-dusky-iota.vercel.app/graph?username=goncalooliveirasilva&theme=merko&radius=16&hide_border=true" height="150" alt="GitHub contributions graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=goncalooliveirasilva&show_icons=true&count_private=true&theme=merko&hide_border=true" height="150" alt="GitHub stats" />
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goncalooliveirasilva&theme=merko&radius=16&hide_border=true" height=150px/>
-  <img src="https://github-stats-extended.vercel.app/api?username=goncalooliveirasilva&show_icons=true&count_private=true&theme=merko&hide_border=true" height=150px/>
-</div>
-
-<!---
-goncalooliveirasilva/goncalooliveirasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
