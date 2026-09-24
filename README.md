@@ -16,8 +16,6 @@
   <a href="mailto:goncalo.silva.dev@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br/>
-
 <!-- TECH STACK -->
 <h3 align="center">Tech Stack</h3>
 
@@ -39,8 +37,6 @@
     <td><img src="https://skillicons.dev/icons?i=git,docker" alt="Git, Docker" /></td>
   </tr>
 </table>
-
-<br/>
 
 <!-- GITHUB STATS -->
 <h3 align="center">GitHub Stats</h3>
